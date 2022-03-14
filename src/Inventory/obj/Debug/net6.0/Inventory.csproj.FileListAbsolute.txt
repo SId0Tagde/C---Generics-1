@@ -1,0 +1,15 @@
+C:\Inventory\src\Inventory\obj\Debug\net6.0\Inventory.csproj.AssemblyReference.cache
+C:\Inventory\src\Inventory\obj\Debug\net6.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inventory\src\Inventory\obj\Debug\net6.0\Inventory.AssemblyInfoInputs.cache
+C:\Inventory\src\Inventory\obj\Debug\net6.0\Inventory.AssemblyInfo.cs
+C:\Inventory\src\Inventory\obj\Debug\net6.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Inventory\src\Inventory\bin\Debug\net6.0\Inventory.exe
+C:\Inventory\src\Inventory\bin\Debug\net6.0\Inventory.deps.json
+C:\Inventory\src\Inventory\bin\Debug\net6.0\Inventory.runtimeconfig.json
+C:\Inventory\src\Inventory\bin\Debug\net6.0\Inventory.dll
+C:\Inventory\src\Inventory\bin\Debug\net6.0\Inventory.pdb
+C:\Inventory\src\Inventory\obj\Debug\net6.0\Inventory.dll
+C:\Inventory\src\Inventory\obj\Debug\net6.0\refint\Inventory.dll
+C:\Inventory\src\Inventory\obj\Debug\net6.0\Inventory.pdb
+C:\Inventory\src\Inventory\obj\Debug\net6.0\Inventory.genruntimeconfig.cache
+C:\Inventory\src\Inventory\obj\Debug\net6.0\ref\Inventory.dll
